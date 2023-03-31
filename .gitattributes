@@ -1,0 +1,4 @@
+*.java linguist-detectable=false
+*.reactJS linguist-detectable=true
+*.css linguist-detectable=true
+*.javascript linguist-detectable=false
